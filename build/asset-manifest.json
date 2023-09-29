@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2395d766.css",
+    "main.js": "/static/js/main.7e60f2c7.js",
+    "static/js/787.dce55451.chunk.js": "/static/js/787.dce55451.chunk.js",
+    "static/media/Jon_Snow_Season_8.png": "/static/media/Jon_Snow_Season_8.9fe4b1760670f36eceeb.png",
+    "static/media/sheldon.jpg": "/static/media/sheldon.d838a1405f8f125d32ad.jpg",
+    "static/media/walter.jpg": "/static/media/walter.998c0f489dc2e344ad87.jpg",
+    "index.html": "/index.html",
+    "main.2395d766.css.map": "/static/css/main.2395d766.css.map",
+    "main.7e60f2c7.js.map": "/static/js/main.7e60f2c7.js.map",
+    "787.dce55451.chunk.js.map": "/static/js/787.dce55451.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2395d766.css",
+    "static/js/main.7e60f2c7.js"
+  ]
+}
